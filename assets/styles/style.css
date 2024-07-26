@@ -7617,6 +7617,18 @@ textarea.form-control-lg {
   width: 100vw !important;
 }
 
+.vw-75 {
+  width: 75vw !important;
+}
+
+.vw-50 {
+  width: 50vw !important;
+}
+
+.vw-25 {
+  width: 25vw !important;
+}
+
 .min-vw-100 {
   min-width: 100vw !important;
 }
